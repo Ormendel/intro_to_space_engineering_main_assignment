@@ -41,13 +41,9 @@ With the help of :
     <img src="./pics/3D.png" width="550" height="400">
    
 
+![Demo Video]([https://openai.com](https://youtu.be/SnW-NPen0xY))
 
-## Here will be the Demo Video
-<video width="320" height="240" controls>
-  <source src="./example.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-<u> Demo video </u>
+
 
 
 
