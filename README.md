@@ -41,7 +41,7 @@ With the help of :
     <img src="./pics/3D.png" width="550" height="400">
    
 
-[Demo Video]([https://youtu.be/SnW-NPen0xY](https://www.youtube.com/watch?v=SnW-NPen0xY&ab_channel=%D7%A2%D7%A8%D7%9F%D7%9C%D7%95%D7%99))
+[Demo Video](https://www.youtube.com/watch?v=SnW-NPen0xY&ab_channel=%D7%A2%D7%A8%D7%9F%D7%9C%D7%95%D7%99)
 
 
 
